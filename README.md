@@ -16,7 +16,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Caroline-1707/library_del
+   git clone https://github.com/Caroline-1707/library_del.git
    cd library_del
 
 2. Запустите приложение:
